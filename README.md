@@ -1,7 +1,7 @@
 # Quicklify - ReactJs Project Management App
 
 ## Live Demo
-You can see a live demo of the Project management App [here](google.com).
+You can see a live demo of the Project management App [here](https://master.dbbqrc7q1vv0j.amplifyapp.com/).
 
 ### `npm start`
 
@@ -17,3 +17,4 @@ You will also see any lint errors in the console.
 - React drag and drop
 - React Context API
 - React Styled Components
+- AWS Amplify
