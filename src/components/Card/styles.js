@@ -35,7 +35,7 @@ export const Container = styled.div`
     border-radius: 0;
     background: transparent;
     box-shadow: none;
-    cursor: -webkit-grabbing;
+    cursor: grabbing;
 
     p, img, header {
       opacity: 0;
