@@ -12,7 +12,7 @@ export function loadLists() {
         },
         {
           id: 2,
-          content: 'Implemment user master-detail',
+          content: 'implement user master-detail',
           labels: ['#251d90d9'],
           user: 'https://dklotz-projects.s3.eu-central-1.amazonaws.com/IMG_20190718_175826.jpg'
         },
@@ -24,7 +24,7 @@ export function loadLists() {
         },
         {
           id: 4,
-          content: 'Implemment vendor list with filter"',
+          content: 'implement vendor list with filter"',
           labels: ['#54e1f7'],
           user: 'https://dklotz-projects.s3.eu-central-1.amazonaws.com/IMG_20190718_175826.jpg'
         },
@@ -83,12 +83,12 @@ export function loadLists() {
         },
         {
           id: 12,
-          content: 'Implemment vendor profile component',
+          content: 'implement vendor profile component',
           labels: ['#54e1f7'],
         },
         {
           id: 13,
-          content: 'Implemment user profile component"',
+          content: 'implement user profile component"',
           labels: ['#251d90d9'],
         }
       ]
