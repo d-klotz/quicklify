@@ -1,0 +1,14 @@
+{
+    "quicklify": {
+        "awscloudformation": {
+            "AuthRoleName": "quicklify-quicklify-20190906114633-authRole",
+            "UnauthRoleArn": "arn:aws:iam::822672623045:role/quicklify-quicklify-20190906114633-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::822672623045:role/quicklify-quicklify-20190906114633-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "quicklify-quicklify-20190906114633-deployment",
+            "UnauthRoleName": "quicklify-quicklify-20190906114633-unauthRole",
+            "StackName": "quicklify-quicklify-20190906114633",
+            "StackId": "arn:aws:cloudformation:eu-central-1:822672623045:stack/quicklify-quicklify-20190906114633/369162c0-d08b-11e9-a847-029363dcbd8e"
+        }
+    }
+}
