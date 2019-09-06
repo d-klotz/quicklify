@@ -30,7 +30,7 @@ export function loadLists() {
         },
         {
           id: 5,
-          content: 'Create deploy process in Jenking',
+          content: 'Create deploy pipeline',
           labels: ['#54e1f7'],
           user: 'https://dklotz-projects.s3.eu-central-1.amazonaws.com/IMG_20190718_175826.jpg'
         },
