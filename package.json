@@ -2,8 +2,12 @@
   "name": "quicklify",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://d-klotz.github.io/quicklify/",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "immer": "^3.2.0",
+    "install": "^0.13.0",
+    "npm": "^6.11.3",
     "react": "^16.9.0",
     "react-dnd": "^9.3.4",
     "react-dnd-html5-backend": "^9.3.4",
@@ -14,6 +18,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
